@@ -1,7 +1,401 @@
-amfi_code,stock_name,holding_pct
-125497,Reliance,8.2
-119551,HDFC Bank,7.1
-120503,ICICI Bank,6.5
-118632,Infosys,5.8
-119092,TCS,4.9
-120841,L&T,4.2
+amfi_code,sector,weight
+120001,Banking,12.35
+120001,IT,7.32
+120001,Pharma,14.26
+120001,Auto,7.27
+120001,FMCG,1.46
+120001,Energy,33.96
+120001,Capital Goods,2.38
+120001,Financial Services,0.84
+120001,Metals,2.14
+120001,Infrastructure,18.02
+120002,Banking,9.24
+120002,IT,0.11
+120002,Pharma,8.65
+120002,Auto,34.12
+120002,FMCG,14.15
+120002,Energy,2.95
+120002,Capital Goods,18.21
+120002,Financial Services,2.91
+120002,Metals,8.59
+120002,Infrastructure,1.07
+120003,Banking,1.13
+120003,IT,2.43
+120003,Pharma,11.29
+120003,Auto,2.74
+120003,FMCG,14.24
+120003,Energy,20.46
+120003,Capital Goods,5.18
+120003,Financial Services,6.17
+120003,Metals,9.74
+120003,Infrastructure,26.63
+120004,Banking,2.04
+120004,IT,16.65
+120004,Pharma,2.45
+120004,Auto,10.87
+120004,FMCG,23.45
+120004,Energy,2.89
+120004,Capital Goods,5.28
+120004,Financial Services,34.03
+120004,Metals,2.01
+120004,Infrastructure,0.32
+120005,Banking,3.67
+120005,IT,0.89
+120005,Pharma,6.97
+120005,Auto,46.4
+120005,FMCG,0.63
+120005,Energy,11.54
+120005,Capital Goods,23.59
+120005,Financial Services,2.67
+120005,Metals,1.22
+120005,Infrastructure,2.42
+120006,Banking,6.68
+120006,IT,3.43
+120006,Pharma,23.37
+120006,Auto,1.29
+120006,FMCG,6.56
+120006,Energy,27.58
+120006,Capital Goods,25.58
+120006,Financial Services,0.3
+120006,Metals,4.04
+120006,Infrastructure,1.18
+120007,Banking,4.89
+120007,IT,7.81
+120007,Pharma,25.32
+120007,Auto,5.25
+120007,FMCG,8.84
+120007,Energy,2.23
+120007,Capital Goods,11.01
+120007,Financial Services,25.38
+120007,Metals,7.87
+120007,Infrastructure,1.41
+120008,Banking,1.67
+120008,IT,11.05
+120008,Pharma,4.49
+120008,Auto,13.81
+120008,FMCG,23.54
+120008,Energy,10.46
+120008,Capital Goods,15.56
+120008,Financial Services,11.88
+120008,Metals,7.29
+120008,Infrastructure,0.25
+120009,Banking,9.71
+120009,IT,1.94
+120009,Pharma,31.89
+120009,Auto,12.17
+120009,FMCG,1.99
+120009,Energy,17.66
+120009,Capital Goods,8.87
+120009,Financial Services,2.26
+120009,Metals,11.52
+120009,Infrastructure,1.99
+120010,Banking,9.45
+120010,IT,18.9
+120010,Pharma,8.86
+120010,Auto,12.35
+120010,FMCG,9.29
+120010,Energy,17.38
+120010,Capital Goods,3.73
+120010,Financial Services,1.16
+120010,Metals,2.8
+120010,Infrastructure,16.09
+120011,Banking,1.3
+120011,IT,29.09
+120011,Pharma,4.41
+120011,Auto,2.12
+120011,FMCG,1.8
+120011,Energy,5.83
+120011,Capital Goods,31.3
+120011,Financial Services,4.07
+120011,Metals,16.65
+120011,Infrastructure,3.43
+120012,Banking,2.1
+120012,IT,6.64
+120012,Pharma,4.28
+120012,Auto,3.3
+120012,FMCG,12.51
+120012,Energy,0.72
+120012,Capital Goods,30.22
+120012,Financial Services,22.03
+120012,Metals,7.94
+120012,Infrastructure,10.25
+120013,Banking,8.77
+120013,IT,11.11
+120013,Pharma,1.21
+120013,Auto,15.12
+120013,FMCG,7.74
+120013,Energy,7.58
+120013,Capital Goods,14.47
+120013,Financial Services,32.82
+120013,Metals,1.13
+120013,Infrastructure,0.06
+120014,Banking,3.55
+120014,IT,9.86
+120014,Pharma,8.67
+120014,Auto,13.99
+120014,FMCG,31.29
+120014,Energy,12.66
+120014,Capital Goods,4.09
+120014,Financial Services,3.06
+120014,Metals,3.93
+120014,Infrastructure,8.9
+120015,Banking,4.3
+120015,IT,1.36
+120015,Pharma,3.98
+120015,Auto,11.42
+120015,FMCG,12.36
+120015,Energy,21.25
+120015,Capital Goods,36.74
+120015,Financial Services,4.34
+120015,Metals,3.77
+120015,Infrastructure,0.48
+120016,Banking,23.72
+120016,IT,11.49
+120016,Pharma,17.73
+120016,Auto,6.29
+120016,FMCG,9.25
+120016,Energy,9.13
+120016,Capital Goods,0.22
+120016,Financial Services,2.01
+120016,Metals,2.37
+120016,Infrastructure,17.79
+120017,Banking,4.78
+120017,IT,0.32
+120017,Pharma,0.17
+120017,Auto,3.89
+120017,FMCG,21.59
+120017,Energy,3.17
+120017,Capital Goods,42.7
+120017,Financial Services,8.47
+120017,Metals,7.18
+120017,Infrastructure,7.74
+120018,Banking,5.13
+120018,IT,1.19
+120018,Pharma,10.75
+120018,Auto,0.04
+120018,FMCG,10.99
+120018,Energy,10.94
+120018,Capital Goods,16.41
+120018,Financial Services,1.3
+120018,Metals,29.18
+120018,Infrastructure,14.06
+120019,Banking,1.6
+120019,IT,11.42
+120019,Pharma,24.37
+120019,Auto,21.46
+120019,FMCG,3.01
+120019,Energy,3.47
+120019,Capital Goods,0.67
+120019,Financial Services,9.45
+120019,Metals,11.68
+120019,Infrastructure,12.87
+120020,Banking,3.42
+120020,IT,7.96
+120020,Pharma,1.85
+120020,Auto,3.55
+120020,FMCG,0.51
+120020,Energy,28.0
+120020,Capital Goods,17.1
+120020,Financial Services,1.65
+120020,Metals,19.81
+120020,Infrastructure,16.15
+120021,Banking,7.17
+120021,IT,0.91
+120021,Pharma,1.68
+120021,Auto,15.45
+120021,FMCG,12.96
+120021,Energy,24.08
+120021,Capital Goods,8.72
+120021,Financial Services,5.04
+120021,Metals,10.52
+120021,Infrastructure,13.46
+120022,Banking,12.23
+120022,IT,8.09
+120022,Pharma,14.85
+120022,Auto,3.82
+120022,FMCG,7.27
+120022,Energy,0.4
+120022,Capital Goods,37.94
+120022,Financial Services,5.27
+120022,Metals,0.84
+120022,Infrastructure,9.29
+120023,Banking,8.32
+120023,IT,14.83
+120023,Pharma,20.57
+120023,Auto,14.63
+120023,FMCG,2.79
+120023,Energy,2.95
+120023,Capital Goods,12.13
+120023,Financial Services,3.61
+120023,Metals,2.95
+120023,Infrastructure,17.22
+120024,Banking,34.92
+120024,IT,3.85
+120024,Pharma,3.68
+120024,Auto,6.28
+120024,FMCG,18.46
+120024,Energy,3.95
+120024,Capital Goods,20.39
+120024,Financial Services,4.22
+120024,Metals,1.32
+120024,Infrastructure,2.94
+120025,Banking,0.96
+120025,IT,7.5
+120025,Pharma,16.9
+120025,Auto,8.24
+120025,FMCG,7.05
+120025,Energy,3.49
+120025,Capital Goods,27.72
+120025,Financial Services,7.98
+120025,Metals,0.36
+120025,Infrastructure,19.81
+120026,Banking,0.14
+120026,IT,23.54
+120026,Pharma,0.86
+120026,Auto,2.13
+120026,FMCG,1.37
+120026,Energy,12.2
+120026,Capital Goods,16.11
+120026,Financial Services,1.78
+120026,Metals,1.32
+120026,Infrastructure,40.54
+120027,Banking,20.65
+120027,IT,25.39
+120027,Pharma,4.69
+120027,Auto,19.38
+120027,FMCG,11.1
+120027,Energy,5.5
+120027,Capital Goods,2.24
+120027,Financial Services,4.1
+120027,Metals,0.45
+120027,Infrastructure,6.53
+120028,Banking,6.37
+120028,IT,3.64
+120028,Pharma,3.56
+120028,Auto,2.36
+120028,FMCG,7.66
+120028,Energy,5.28
+120028,Capital Goods,29.05
+120028,Financial Services,9.21
+120028,Metals,18.36
+120028,Infrastructure,14.52
+120029,Banking,26.49
+120029,IT,27.37
+120029,Pharma,17.61
+120029,Auto,3.67
+120029,FMCG,4.6
+120029,Energy,1.08
+120029,Capital Goods,7.52
+120029,Financial Services,1.44
+120029,Metals,2.65
+120029,Infrastructure,7.57
+120030,Banking,1.28
+120030,IT,4.63
+120030,Pharma,46.69
+120030,Auto,10.26
+120030,FMCG,4.21
+120030,Energy,2.43
+120030,Capital Goods,1.44
+120030,Financial Services,8.37
+120030,Metals,2.36
+120030,Infrastructure,18.33
+120031,Banking,8.35
+120031,IT,3.25
+120031,Pharma,15.17
+120031,Auto,7.06
+120031,FMCG,13.64
+120031,Energy,5.04
+120031,Capital Goods,7.98
+120031,Financial Services,5.52
+120031,Metals,23.85
+120031,Infrastructure,10.15
+120032,Banking,5.8
+120032,IT,2.91
+120032,Pharma,5.51
+120032,Auto,15.24
+120032,FMCG,8.51
+120032,Energy,11.19
+120032,Capital Goods,11.18
+120032,Financial Services,31.77
+120032,Metals,5.76
+120032,Infrastructure,2.12
+120033,Banking,4.87
+120033,IT,6.34
+120033,Pharma,5.13
+120033,Auto,11.37
+120033,FMCG,16.03
+120033,Energy,2.71
+120033,Capital Goods,36.34
+120033,Financial Services,16.89
+120033,Metals,0.17
+120033,Infrastructure,0.16
+120034,Banking,8.44
+120034,IT,7.74
+120034,Pharma,15.56
+120034,Auto,14.28
+120034,FMCG,3.44
+120034,Energy,14.73
+120034,Capital Goods,12.04
+120034,Financial Services,0.04
+120034,Metals,18.0
+120034,Infrastructure,5.72
+120035,Banking,10.87
+120035,IT,7.93
+120035,Pharma,2.99
+120035,Auto,18.71
+120035,FMCG,18.05
+120035,Energy,25.07
+120035,Capital Goods,0.64
+120035,Financial Services,9.16
+120035,Metals,2.58
+120035,Infrastructure,3.98
+120036,Banking,4.77
+120036,IT,21.14
+120036,Pharma,5.18
+120036,Auto,2.39
+120036,FMCG,7.93
+120036,Energy,5.41
+120036,Capital Goods,4.43
+120036,Financial Services,25.87
+120036,Metals,1.69
+120036,Infrastructure,21.2
+120037,Banking,3.85
+120037,IT,5.12
+120037,Pharma,24.57
+120037,Auto,10.81
+120037,FMCG,11.09
+120037,Energy,1.58
+120037,Capital Goods,15.72
+120037,Financial Services,10.56
+120037,Metals,9.66
+120037,Infrastructure,7.05
+120038,Banking,3.26
+120038,IT,3.47
+120038,Pharma,13.68
+120038,Auto,13.83
+120038,FMCG,7.49
+120038,Energy,5.69
+120038,Capital Goods,3.72
+120038,Financial Services,17.64
+120038,Metals,26.61
+120038,Infrastructure,4.61
+120039,Banking,23.07
+120039,IT,11.58
+120039,Pharma,0.6
+120039,Auto,9.12
+120039,FMCG,10.27
+120039,Energy,4.55
+120039,Capital Goods,17.49
+120039,Financial Services,6.61
+120039,Metals,13.73
+120039,Infrastructure,2.98
+120040,Banking,8.86
+120040,IT,20.89
+120040,Pharma,0.66
+120040,Auto,20.37
+120040,FMCG,21.0
+120040,Energy,13.93
+120040,Capital Goods,3.33
+120040,Financial Services,1.0
+120040,Metals,5.61
+120040,Infrastructure,4.36

@@ -1,0 +1,29 @@
+import pandas as pd
+import numpy as np
+
+# Monthly dates from Jan 2022 to Dec 2025
+months = pd.date_range(
+    start="2022-01-31",
+    end="2025-12-31",
+    freq="ME"
+)
+
+# Linear growth from 13.26 Cr to 26.12 Cr
+folios = np.linspace(
+    13.26,
+    26.12,
+    len(months)
+)
+
+folio = pd.DataFrame({
+    "date": months,
+    "folio_count_cr": folios.round(2)
+})
+
+folio.to_csv(
+    "data/raw/folio_history.csv",
+    index=False
+)
+
+folio.head()
+

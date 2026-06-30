@@ -1,7 +1,41 @@
 amfi_code,scheme_name,fund_house,category,sub_category,risk_grade
-125497,HDFC Top 100 Direct,HDFC,Equity,Large Cap,Moderate
-119551,SBI Bluechip Fund,SBI,Equity,Large Cap,Moderate
-120503,ICICI Pru Bluechip,ICICI Prudential,Equity,Large Cap,Moderate
-118632,Nippon India Large Cap,Nippon India,Equity,Large Cap,High
-119092,Axis Bluechip Fund,Axis,Equity,Large Cap,Moderate
-120841,Kotak Bluechip Fund,Kotak,Equity,Large Cap,Moderate
+120001,SBI Large Cap Fund 1,SBI,Equity,Large Cap,High
+120002,HDFC Mid Cap Fund 2,HDFC,Equity,Mid Cap,Moderate
+120003,ICICI Prudential Small Cap Fund 3,ICICI Prudential,Equity,Small Cap,High
+120004,Axis Flexi Cap Fund 4,Axis,Equity,Flexi Cap,High
+120005,Kotak Large Cap Fund 5,Kotak,Equity,Large Cap,Moderate
+120006,Nippon India Mid Cap Fund 6,Nippon India,Equity,Mid Cap,Moderate
+120007,Aditya Birla Sun Life Small Cap Fund 7,Aditya Birla Sun Life,Equity,Small Cap,High
+120008,DSP Flexi Cap Fund 8,DSP,Equity,Flexi Cap,Moderately High
+120009,Franklin Templeton Large Cap Fund 9,Franklin Templeton,Equity,Large Cap,High
+120010,UTI Mid Cap Fund 10,UTI,Equity,Mid Cap,High
+120011,SBI Small Cap Fund 11,SBI,Equity,Small Cap,High
+120012,HDFC Flexi Cap Fund 12,HDFC,Equity,Flexi Cap,High
+120013,ICICI Prudential Large Cap Fund 13,ICICI Prudential,Equity,Large Cap,Moderate
+120014,Axis Mid Cap Fund 14,Axis,Equity,Mid Cap,High
+120015,Kotak Small Cap Fund 15,Kotak,Equity,Small Cap,Moderately High
+120016,Nippon India Flexi Cap Fund 16,Nippon India,Equity,Flexi Cap,Moderate
+120017,Aditya Birla Sun Life Large Cap Fund 17,Aditya Birla Sun Life,Equity,Large Cap,Moderately High
+120018,DSP Mid Cap Fund 18,DSP,Equity,Mid Cap,Moderately High
+120019,Franklin Templeton Small Cap Fund 19,Franklin Templeton,Equity,Small Cap,Moderately High
+120020,UTI Flexi Cap Fund 20,UTI,Equity,Flexi Cap,Moderately High
+120021,SBI Large Cap Fund 21,SBI,Equity,Large Cap,Moderate
+120022,HDFC Mid Cap Fund 22,HDFC,Equity,Mid Cap,Moderate
+120023,ICICI Prudential Small Cap Fund 23,ICICI Prudential,Equity,Small Cap,Moderately High
+120024,Axis Flexi Cap Fund 24,Axis,Equity,Flexi Cap,Moderately High
+120025,Kotak Large Cap Fund 25,Kotak,Equity,Large Cap,Moderate
+120026,Nippon India Mid Cap Fund 26,Nippon India,Equity,Mid Cap,Moderate
+120027,Aditya Birla Sun Life Small Cap Fund 27,Aditya Birla Sun Life,Equity,Small Cap,Moderate
+120028,DSP Flexi Cap Fund 28,DSP,Equity,Flexi Cap,High
+120029,Franklin Templeton Large Cap Fund 29,Franklin Templeton,Equity,Large Cap,High
+120030,UTI Mid Cap Fund 30,UTI,Equity,Mid Cap,High
+120031,SBI Small Cap Fund 31,SBI,Equity,Small Cap,Moderately High
+120032,HDFC Flexi Cap Fund 32,HDFC,Equity,Flexi Cap,High
+120033,ICICI Prudential Large Cap Fund 33,ICICI Prudential,Equity,Large Cap,Moderately High
+120034,Axis Mid Cap Fund 34,Axis,Equity,Mid Cap,Moderately High
+120035,Kotak Small Cap Fund 35,Kotak,Equity,Small Cap,High
+120036,Nippon India Flexi Cap Fund 36,Nippon India,Equity,Flexi Cap,Moderately High
+120037,Aditya Birla Sun Life Large Cap Fund 37,Aditya Birla Sun Life,Equity,Large Cap,High
+120038,DSP Mid Cap Fund 38,DSP,Equity,Mid Cap,High
+120039,Franklin Templeton Small Cap Fund 39,Franklin Templeton,Equity,Small Cap,Moderate
+120040,UTI Flexi Cap Fund 40,UTI,Equity,Flexi Cap,High
